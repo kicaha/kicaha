@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kim
 
-<!--
-**kicaha/kicaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Business Systems Analyst** with a background in **data analytics, civic technology, and process improvement**. I work at the intersection of business needs and data clarity—helping organizations make sense of information to make better decisions.
 
-Here are some ideas to get you started:
+### 🔍 What I Do
+- **Data Analysis & Visualization:** Python (pandas, matplotlib, seaborn), Power BI, Tableau, Excel  
+- **Business Analysis:** Requirements documentation, process mapping, solution evaluation 
+- **Project Experience:** Capital projects, transit data, and public sector performance dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus
+Building a portfolio of independent projects to expand my technical range and practical expertise in:
+- Machine learning fundamentals (classification, clustering, regression)  
+- Statistical analysis and feature engineering  
+- Data storytelling through Power BI and Tableau  
+- Business case development and documentation  
+
+### 🧰 Tools & Technologies
+Python • Jupyter Notebooks • SQL • Power BI • Tableau • GitHub • Excel • Power Platform  
+
+### 📂 Featured Projects
+*(Portfolio currently in development — projects coming soon)*  
+
+Planned projects include:
+- **CLC Building Permits – Classification Model**  
+- **Transit Ridership Statistical Analysis**  
+- **Sentiment Analysis (Multilingual)**  
+- **Wonkalytics Dashboard**  
+- **Business Case – Civic Improvement Project**.
+
+### 📫 Let’s Connect
+- https://www.linkedin.com/in/kicaha/
+- kimberlychanson@gmail.com
