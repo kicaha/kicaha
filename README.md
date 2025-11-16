@@ -21,10 +21,9 @@ Python • Jupyter Notebooks • SQL • Power BI • Tableau • GitHub • Exc
 *(Portfolio currently in development — projects coming soon)*  
 
 Planned projects include:
-- **CLC Building Permits – Classification Model**  
+- [**CLC Building Permits – Classification Model**](https://github.com/kicaha/building-permits-classifier) 
 - **Transit Ridership Statistical Analysis**  
-- **Sentiment Analysis (Multilingual)**  
-- **Wonkalytics Dashboard**  
+- **Sentiment Analysis (Multilingual)**
 - **Business Case – Civic Improvement Project**.
 
 ### 📫 Let’s Connect
